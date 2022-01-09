@@ -1,6 +1,5 @@
 Leo King lking1 
-
-Partner: Neo Agojo Iagojo@ucsc.edu
+A laboratory with Neo Agojo Iagojo@ucsc.edu
 My repo contains the final version of the project. 
 I wrote:
 - Message.c 
